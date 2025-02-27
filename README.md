@@ -1,1 +1,1 @@
-Telegram bot for receiving current exchange rates from the NBRB.BY website
+# Telegram bot for receiving current exchange rates from the NBRB.BY website
